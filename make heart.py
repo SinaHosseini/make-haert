@@ -1,5 +1,4 @@
 from turtle import *
-from turtle import bgcolor, delay
 
 bgcolor('black')
 color('red')
